@@ -10,8 +10,9 @@ Installed applications
 -----------------------
 
 - Ubuntu 14.04
+- openssh-server
 
 Usage
 -----
 
-    docker run -d ushios/ubuntu14
+    docker run -d -p 22:22 ushios/ubuntu14
