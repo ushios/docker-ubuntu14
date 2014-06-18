@@ -4,12 +4,13 @@ Docker ubuntu14
 Dependencies
 ------------
 
-- dockerfile/ubuntu
+- [dockerfile/ubuntu](https://registry.hub.docker.com/u/dockerfile/ubuntu/)
 
 Installed applications
 -----------------------
 
-- Ubuntu 14.04
+
+- [dockerfile/ubuntu](https://registry.hub.docker.com/u/dockerfile/ubuntu/)
 - openssh-server
 
 Usage
